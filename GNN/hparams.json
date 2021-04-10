@@ -1,0 +1,10 @@
+{
+    "feature_window": 1,
+    "network_window": 6,
+    "batch_size": 1,
+    "epoch": 400,
+    "learning_rate": 0.001,
+    "lossfile": "model/loss.csv",
+    "forecastfile": "model/forecast.csv",
+    "checkpoint": "model/checkpoint"
+}
